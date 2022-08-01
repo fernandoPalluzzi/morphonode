@@ -14,4 +14,4 @@ This will download the MPM source code, build the morphonode tar.gz package, and
 
 # Getting help
 
-Tutorials and further information about the Morphonode project are available a the [**Morphonode Predictive Model**](https://github.com/Morphonodepredictivemodel) website.
+Tutorials and further information about the Morphonode project are available a the [**Morphonode Predictive Model**](https://github.com/Morphonodepredictivemodel/morphonode) website.
